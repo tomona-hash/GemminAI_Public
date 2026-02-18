@@ -15,3 +15,6 @@ GemminAIは、古代ローマの掲示板『Acta Diurna（アクタ・ディウ�
 
 信頼の証としての「沈黙」
 もし、わたしたちが提供するデータとハッシュ値が1ビットでも一致しない場合、アプリケーションは潔く「沈黙（白紙）」を選びます。その白紙の画面こそが、偽りのない真実の証跡（エビデンス）です。
+
+
+"This script is the bedrock of GemminAI. Any modification to this file will change its signature, rendering it unofficial. The mathematical truth begins here."
